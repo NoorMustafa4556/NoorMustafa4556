@@ -77,17 +77,17 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan4546&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Arslan's GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan4546 &bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Noor Mustafa's GitHub Activity" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/arslan4546">
+  <a href="https://github.com/NoorMustafa4556">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan4546&theme=transparent" />
   </a>
-  <a href="https://github.com/arslan4546">
+  <a href="https://github.com/NoorMustafa4556">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan4546&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/arslan4546">
+  <a href="https://github.com/NoorMustafa4556">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arslan4546&theme=transparent" />
   </a>
 </div>
