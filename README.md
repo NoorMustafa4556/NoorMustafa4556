@@ -21,9 +21,9 @@ My passion for programming languages and frameworks fuels my continuous learning
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/NoorMustafa4556)**
 - 🌱 I’m currently learning **Flutter APIs**
 - 👯 I’m looking to collaborate on **interesting projects**
-- 👨‍💻 My complete portfolio is available at [https://github.com/arslan4546](https://github.com/noormustafa4556)
+- 👨‍💻 My complete portfolio is available at [https://github.com/noormustafa4556](https://github.com/noormustafa4556)
 - 💬 Ask me about **Flutter, Dart, and Web Development**
-- 📫 Reach me at **arslantariq4546@gmail.com**
+- 📫 Reach me at **noorrmustafa4556@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
 
