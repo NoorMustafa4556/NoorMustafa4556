@@ -82,7 +82,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <div align="center">
   <a href="https://github.com/NoorMustafa4556">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arslan4546&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoorMustafa4556 &theme=transparent" />
   </a>
   <a href="https://github.com/NoorMustafa4556">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan4546&hide_border=true&card_width=338&theme=transparent" />
