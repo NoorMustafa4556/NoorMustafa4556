@@ -99,11 +99,6 @@ My passion for programming languages and frameworks fuels my continuous learning
   <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
 </div>
 
-<div align="center">
-  <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMustafa4556 &layout=compact&hide=html&theme=dracula"/>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=arslan4546&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  </p>
 
 
 
