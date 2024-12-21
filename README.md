@@ -1,7 +1,7 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/arslan4546)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Arslan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Noor Mustafa !;" />
 </h1>
 
 <div align="center">
@@ -18,10 +18,10 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="arslan4546" /> </p>
 
-- 🔭 I’m currently working on **[Flutter Projects](https://github.com/arslan4546)**
+- 🔭 I’m currently working on **[Flutter Projects](https://github.com/NoorMustafa4556)**
 - 🌱 I’m currently learning **Flutter APIs**
 - 👯 I’m looking to collaborate on **interesting projects**
-- 👨‍💻 My complete portfolio is available at [https://github.com/arslan4546](https://github.com/arslan4546)
+- 👨‍💻 My complete portfolio is available at [https://github.com/arslan4546](https://github.com/noormustafa4556)
 - 💬 Ask me about **Flutter, Dart, and Web Development**
 - 📫 Reach me at **arslantariq4546@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
