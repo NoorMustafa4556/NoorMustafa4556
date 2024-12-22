@@ -1,7 +1,7 @@
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/arslan4546)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Noor+Mustafa++!++;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+!+👋+I'm+Noor+Mustafa++!++;" />
 </h1>
 
 <div align="center">
@@ -33,7 +33,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/noormustafa4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoorMustafa4556" height="30" width="40" /></a>
+  <a href="https://x.com/NoorMustafa4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoorMustafa4556" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/noormustafa4556/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noormustafa4556/" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100075494258455)6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslan4546" height="30" width="40" /></a>
   <a href="https://instagram.com/noormustafa4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslantariq4546" height="30" width="40" /></a>
