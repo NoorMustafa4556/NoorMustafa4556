@@ -33,11 +33,23 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/NoorMustafa4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoorMustafa4556" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/noormustafa4556/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noormustafa4556/" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/NoorMustafa4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NoorMustafa4556" height="30" width="40" /></a>
-  <a href="https://instagram.com/noormustafa4556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslantariq4546" height="30" width="40" /></a>
+  <a href="https://x.com/NoorMustafa4556" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NoorMustafa4556" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/noormustafa4556/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noormustafa4556" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/NoorMustafa4556" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NoorMustafa4556" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/noormustafa4556" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noormustafa4556" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/923087655076" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
