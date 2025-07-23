@@ -55,7 +55,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 ### 🏆 GitHub Trophies
 <p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NoorMustafa4556 &theme=darkhub" alt="NoorMustafa4556 trophies" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslan4546 &theme=darkhub" alt="arslan4546 trophies" /></a> 
 </p>
 
 ### 🛠️ Languages and Tools
