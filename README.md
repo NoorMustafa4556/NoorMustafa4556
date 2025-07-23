@@ -1,4 +1,4 @@
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/arslan4546)
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/NoorMustafa4556)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Noor+Mustafa+!;" />
@@ -16,7 +16,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="arslan4546" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan4546&label=Profile%20views&color=0e75b6&style=flat" alt="NoorMustafa4556" /> </p>
 
 - 🔭 I’m currently working on **[Flutter Projects](https://github.com/NoorMustafa4556)**
 - 🌱 I’m currently learning **Flutter APIs**
@@ -53,10 +53,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslan4546 &theme=darkhub" alt="arslan4546 trophies" /></a> 
-</p>
+
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
