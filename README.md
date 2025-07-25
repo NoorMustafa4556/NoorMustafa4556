@@ -49,9 +49,10 @@ My passion for programming languages and frameworks fuels my continuous learning
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
   <a href="https://www.tiktok.com/@noormustafa4556" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/TikTok_logo.svg" alt="TikTok" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/TikTok_logo.svg" alt="TikTok" height="30" width="30" />
   </a>
 </p>
+
 
 
 
