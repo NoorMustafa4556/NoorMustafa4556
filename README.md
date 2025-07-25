@@ -48,13 +48,10 @@ My passion for programming languages and frameworks fuels my continuous learning
   <a href="https://wa.me/923087655076" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 <a href="https://www.tiktok.com/@noormustafa4556" target="_blank">
-  <img align="center"
-       src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png"
-       alt="TikTok"
-       height="30"
-       width="30"
-       style="background: white; padding: 5px; border-radius: 50%; box-shadow: 0 0 2px rgba(0,0,0,0.2);" />
+  <img src="https://raw.githubusercontent.com/…/tiktok-circle-light.png"
+       alt="TikTok" width="40" />
 </a>
+
 
 
 </a>
