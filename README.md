@@ -66,7 +66,62 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 
 ### 🛠️ Languages and Tools
-<p align="center"> <table> <tr> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br>Flutter </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python </td> <td align="center" width="100"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django </td> </tr> <tr> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java </td> </tr> <tr> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++ </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br>Android </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/><br>VS Code </td> <td align="center" width="100"> <!-- Leave this one blank if no additional icon --> </td> </tr> </table> </p>
+<p align="center"> 
+  <table> 
+    <tr> 
+      <td align="center" width="100"> 
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br>Flutter 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/><br>Android Studio
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="VS Code"/><br>VS Code 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git 
+      </td> 
+    </tr> 
+    <tr> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS 
+      </td> 
+    </tr> 
+    <tr> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++ 
+      </td> 
+      <td align="center" width="100"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br>Android 
+      </td> 
+    </tr> 
+  </table> 
+</p>
+
 
 
 
