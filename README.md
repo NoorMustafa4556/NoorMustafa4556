@@ -56,7 +56,6 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 
 
-</a>
 </p>
 
 
