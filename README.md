@@ -66,35 +66,15 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 
 ### 🛠️ Languages and Tools
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/> </a>
- 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
- <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; padding: 4px; border-radius: 6px;" />
-</a>
-
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<p align="center"> <table> <tr> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br>Flutter </td> <td align="center" width="100"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python </td> <td align="center" width="100"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django </td> </tr> <tr> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/><br>MySQL </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/><br>Java </td> </tr> <tr> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/><br>C </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br>C++ </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/><br>Android </td> <td align="center" width="100"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio"/><br>VS Code </td> <td align="center" width="100"> <!-- Leave this one blank if no additional icon --> </td> </tr> </table> </p>
 
 
-  
+
+### 📊 Top Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMustafa4556&layout=compact&theme=tokyonight" />
 </p>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMustafa4556&layout=compact&theme=tokyonight)
 
 
 ---
