@@ -94,6 +94,7 @@ My passion for programming languages and frameworks fuels my continuous learning
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoorMustafa4556&layout=compact&theme=tokyonight)
 
 
 ---
